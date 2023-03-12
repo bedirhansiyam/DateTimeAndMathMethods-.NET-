@@ -1,0 +1,15 @@
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\bin\Debug\net7.0\DateTimeAndMathMethods.exe
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\bin\Debug\net7.0\DateTimeAndMathMethods.deps.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\bin\Debug\net7.0\DateTimeAndMathMethods.runtimeconfig.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\bin\Debug\net7.0\DateTimeAndMathMethods.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\bin\Debug\net7.0\DateTimeAndMathMethods.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\obj\Debug\net7.0\DateTimeAndMathMethods.csproj.AssemblyReference.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\obj\Debug\net7.0\DateTimeAndMathMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\obj\Debug\net7.0\DateTimeAndMathMethods.AssemblyInfoInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\obj\Debug\net7.0\DateTimeAndMathMethods.AssemblyInfo.cs
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\obj\Debug\net7.0\DateTimeAndMathMethods.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\obj\Debug\net7.0\DateTimeAndMathMethods.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\obj\Debug\net7.0\refint\DateTimeAndMathMethods.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\obj\Debug\net7.0\DateTimeAndMathMethods.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\obj\Debug\net7.0\DateTimeAndMathMethods.genruntimeconfig.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\DateTimeAndMathMethods\obj\Debug\net7.0\ref\DateTimeAndMathMethods.dll
